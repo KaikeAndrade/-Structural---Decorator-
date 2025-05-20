@@ -1,0 +1,2 @@
+# -Structural---Decorator-
+Método Decorator
